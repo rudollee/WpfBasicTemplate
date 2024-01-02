@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<SolidColorBrush x:Key="font-basic-solid" Color="#000" />
+	<SolidColorBrush x:Key="font-basic-m" Color="#888" />
+	<SolidColorBrush x:Key="font-basic-thin" Color="#ccc" />
+	<SolidColorBrush x:Key="font-basic-thinner" Color="#ddd" />
+	<SolidColorBrush x:Key="font-basic-thinnest" Color="#eee" />
+	<SolidColorBrush x:Key="font-basic-thick" Color="#333" />
+	<SolidColorBrush x:Key="font-basic-thicker" Color="#222" />
+	<SolidColorBrush x:Key="font-basic-thickest" Color="#111"  />
+
+	<SolidColorBrush x:Key="mask-w-thinnest" Color="White" Opacity=".05" />
+	<SolidColorBrush x:Key="mask-w-thinner" Color="White" Opacity=".1" />
+	<SolidColorBrush x:Key="mask-w-thin" Color="White" Opacity=".2" />
+	<SolidColorBrush x:Key="mask-w-m" Color="White" Opacity=".05" />
+	<SolidColorBrush x:Key="mask-w-thick" Color="White" Opacity=".8" />
+	<SolidColorBrush x:Key="mask-w-thicker" Color="White" Opacity=".9" />
+	<SolidColorBrush x:Key="mask-w-thickest" Color="White" Opacity=".95" />
+
+	<SolidColorBrush x:Key="mask-b-thinnest" Color="Black" Opacity=".05" />
+	<SolidColorBrush x:Key="mask-b-thinner" Color="Black" Opacity=".1" />
+	<SolidColorBrush x:Key="mask-b-thin" Color="Black" Opacity=".2" />
+	<SolidColorBrush x:Key="mask-b-m" Color="Black" Opacity=".05" />
+	<SolidColorBrush x:Key="mask-b-thick" Color="Black" Opacity=".8" />
+	<SolidColorBrush x:Key="mask-b-thicker" Color="Black" Opacity=".9" />
+	<SolidColorBrush x:Key="mask-b-thickest" Color="Black" Opacity=".95" />
+
+</ResourceDictionary>
